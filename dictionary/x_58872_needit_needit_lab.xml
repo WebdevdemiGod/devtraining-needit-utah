@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c0a53076934032101059f0ba2bba1078" extends="task" label="NeedIt_Lab" max_length="40" name="x_58872_needit_needit_lab" type="collection"/>
+</database>
